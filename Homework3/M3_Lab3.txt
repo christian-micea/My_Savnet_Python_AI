@@ -1,0 +1,21 @@
+1. Student Grade Tracker
+
+Goal: Practice lists, dictionaries, loops, and basic calculations.
+
+Task: Create a program that stores students and their grades in a dictionary.
+
+Example:
+students = {
+    "Alice": [8, 7, 9],
+    "Bob": [6, 5, 7],
+    "Charlie": [4, 6, 5]
+}
+
+The program should:
+- Print each student's average grade.
+- Show the student with the highest average.
+- Show how many students passed if the passing average is >= 6.
+
+Challenge extension:
+- Add a new student.
+- Allow the user to type a student name and display their grades.
