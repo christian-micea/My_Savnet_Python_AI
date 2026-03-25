@@ -1,0 +1,6 @@
+light_id,road_id,cycle_time,green_time,red_time
+L0,R1,107,53,54
+L1,R2,135,67,68
+L2,R3,129,64,65
+L3,R4,139,69,70
+L4,R5,138,69,69

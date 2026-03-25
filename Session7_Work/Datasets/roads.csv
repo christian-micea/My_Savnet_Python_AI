@@ -1,0 +1,6 @@
+road_id,name,length_km,max_speed,lanes,zone
+R1,Bulevardul Unirii,2.5,50,3,central
+R2,Calea Victoriei,1.8,40,2,central
+R3,Soseaua Mihai Bravu,5.2,60,4,outer
+R4,Splaiul Independentei,3.1,50,3,river
+R5,Bulevardul Magheru,2.0,50,2,central
