@@ -1,0 +1,6 @@
+Analysis Report for: input_file.txt
+==============================
+Word Count: 25
+Line Count: 16
+Character Count: 157
+Average Word Length: 4.72
